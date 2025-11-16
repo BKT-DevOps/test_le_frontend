@@ -1,4 +1,4 @@
-# Test Projects of Lutfiye (Örnek)
+# test_le_frontend (Örnek)
 
 <div align="center">
 
